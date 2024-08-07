@@ -65,13 +65,13 @@
 
 그림 4.
 
-Ajax googleapis jqeury는 `뒤로` 및 `이전` 버튼을 구현하기 위해 가져옵니다.
+Ajax googleapis jqeury는 `뒤로` 및 `이전` 버튼을 구현하기 위해 사용했습니다.
 
 ![image](https://github.com/user-attachments/assets/83c9f1bf-bd0d-4756-a9a7-48883d290acf)
 
 그림 5.
 
-질문이 첫 번째 질문이 아닌 경우 `다음` 버튼 옆에 `뒤로` 버튼이 있어 클릭하면 이전 질문으로 이동합니다.
+질문이 첫번째 질문이 아닌 경우 `다음` 버튼 옆에 `뒤로` 버튼이 있어 클릭하면 이전 질문으로 이동합니다.
 
 ![image](https://github.com/user-attachments/assets/3ff924cc-5b31-4e4f-8eb6-2e09b326b537)
 
@@ -82,6 +82,7 @@ Ajax googleapis jqeury는 `뒤로` 및 `이전` 버튼을 구현하기 위해 �
 ![image](https://github.com/user-attachments/assets/c8de922a-445b-4350-b9cd-ed501f3a06cd)
 
 그림 7.
+
 사용자가 제출 버튼을 누르면 시도 횟수가 사용자 이름과 함께 상단에 표시됩니다. 현재 퀴즈 점수와 정답 및 오답 수가 표시됩니다. 전체 점수도 표시되어 모든 시도의 총점을 보여줍니다. 사용자는 `다시 시도` 버튼을 눌러 지리 퀴즈를 다시 시도할 수 있습니다. 그렇지 않으면 `역사 시도` 버튼을 눌러 역사 퀴즈를 시도할 수 있습니다. `리더 보드` 버튼을 눌러 리더 보드를 볼 수도 있습니다. `종료` 버튼을 클릭하면 `exit.php` 페이지로 이동합니다.
 
 ### `history.php` 출력 화면 스크린샷
